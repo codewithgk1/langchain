@@ -1,23 +1,24 @@
 # Project Title
 
 ## Description
-This is a starter project for people who wants to get the hands dirty on lanchain framework and basic scenarios
+This is a starter project for people who want to get their hands dirty with the Langchain framework and basic scenarios.
 
 ## Installation
-Instructions on how to install and set up the project.
+Follow these instructions to install and set up the project.
 
 ```sh
 # Clone the repository
 git clone https://github.com/codewithgk1/langchain.git
 
 # Navigate to the project directory
-cd yourproject
+cd langchain
 
-# create virtual env
+# Create a virtual environment
 python -m venv venv
 
-# activate virtual env
+# Activate the virtual environment
 source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
