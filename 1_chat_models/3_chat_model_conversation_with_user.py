@@ -21,9 +21,9 @@ while True:
         break
     chat_history.append(HumanMessage(content=query))  # Add user message
 
-    print("---- Message History ----")
-    print(chat_history)
-    print("----")
+    # print("---- Message History ----")
+    # print(chat_history)
+    # print("----")
     # Get AI response using history
     result = model.invoke(chat_history)
     response = result.content
