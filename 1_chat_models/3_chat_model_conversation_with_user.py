@@ -30,7 +30,3 @@ while True:
     chat_history.append(AIMessage(content=response))  # Add AI message
 
     print(f"AI: {response}")
-
-
-print("---- Message History ----")
-print(chat_history)
