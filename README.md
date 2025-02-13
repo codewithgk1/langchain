@@ -5,7 +5,8 @@ This is a starter project for people who want to get their hands dirty with the 
 
 ## Pre-requisites
 
-python 3.11.11
+- python 3.11.11
+- create and setup .env file (refer .env.example)
 
 ## Installation
 Follow these instructions to install and set up the project.
