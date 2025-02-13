@@ -3,6 +3,10 @@
 ## Description
 This is a starter project for people who want to get their hands dirty with the Langchain framework and basic scenarios.
 
+## Pre-requisites
+
+python 3.11.11
+
 ## Installation
 Follow these instructions to install and set up the project.
 
@@ -21,4 +25,12 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+## Usage
+Follow instructions to run the project.
+
+```sh
+# Run the basic chat model
+python 1_chat_models/1_chat_basic.py
 ```
